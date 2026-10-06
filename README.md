@@ -7,7 +7,7 @@ Paper I: Augmenting Romer's Endogenous Growth Theory for the Age of Cognitive Au
 
 Paper II: The Corporate Playbook for "AI-Augmented Apprenticeships": From Entry-Level Displacement to Sustainable Cognitive Design (https://www.researchgate.net/publication/415195362_The_Corporate_Playbook_for_AI-Augmented_Apprenticeships_From_Entry-Level_Displacement_to_Sustainable_Cognitive_Design)
 
-1.Identifies the microeconomic "System Black Box Threshold" where unmanaged technical debt outstrips human diagnostic capacity.
+1. Identifies the microeconomic "System Black Box Threshold" where unmanaged technical debt outstrips human diagnostic capacity.
 2. Outlines three operational archetypes: Adversarial Audits, Sandboxed Iteration Tracks, and Dual-Prompt Audit Trails.
 3. Establishes corporate KPIs centered on Verification Density rather than raw output volume.
 
